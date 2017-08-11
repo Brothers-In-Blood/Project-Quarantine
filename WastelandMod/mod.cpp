@@ -1,0 +1,14 @@
+name = "Project Quarantine";
+picture = "logo_cba_ca.paa";
+actionName = "Website";
+action = "https://bibgaming.com";
+description = "";
+logo = "bib.paa";
+logoOver = "bib.paa";
+tooltip = "BIB Mod";
+tooltipOwned = "BIB Mod";
+overview = "";
+author = "BIB_Monkey";
+overviewPicture = "bib.paa";
+overviewText = "";
+overviewFootnote = "";
